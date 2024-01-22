@@ -1,0 +1,20 @@
+{
+    "workspace.library": [
+        "/home/horry/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/home/linuxbrew/.linuxbrew/Cellar/neovim/0.9.4/share/nvim/runtime/lua",
+        "",
+        "./?.lua",
+        "/usr/local/share/lua/5.1/?.lua",
+        "/usr/local/share/lua/5.1/?/init.lua",
+        "/usr/local/lib/lua/5.1/?.lua",
+        "/usr/local/lib/lua/5.1/?/init.lua",
+        "/usr/share/lua/5.1/?.lua",
+        "/usr/share/lua/5.1/?/init.lua",
+        "/.luarocks/share/lua/5.1/?.lua",
+        "/.luarocks/share/lua/5.1/init.lua",
+        "/usr/local/lib/luarocks/rocks-5.1/?/?.lua",
+        "/usr/local/lib/luarocks/rocks-5.1/?/?/?.lua",
+        "/home/horry/Personal/jisho.nvim/lua",
+        "${3rd}/luv/library"
+    ]
+}
